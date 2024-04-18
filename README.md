@@ -2,13 +2,15 @@
 
 Mundus offers a wide range of AI agents, including language models, image generators, and task-specific models, all available for free to users.
 
-The AELM (Auto Execution Language Model) is the backbone of Mundus, enabling AI agents to understand natural language commands and execute tasks autonomously.
-
 Mundus is designed with a user-friendly interface, making it easy for users of all skill levels to access and utilize the available AI agents.
 
 The Mundus platform is built on a robust and scalable infrastructure, ensuring reliable and consistent performance for all users.
 
 The Mundus team is dedicated to continuously improving the platform, adding new features, and expanding the capabilities of the AI agents.
+
+## AELM Model
+
+The AELM (Auto Execution Language Model) is the backbone of Mundus, enabling AI agents to understand natural language commands and execute tasks autonomously.
 
 ## Mundus
 
