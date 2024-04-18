@@ -10,7 +10,7 @@ The Mundus team is dedicated to continuously improving the platform, adding new 
 
 ## AELM Model
 
-The AELM (Auto Execution Language Model) is the backbone of Mundus, enabling AI agents to understand natural language commands and execute tasks autonomously.
+The AELM (Auto Execution Language Model) is the backbone of Mundus, Have traditional LLM capabilities, but with special training and architectural adjustments to reduce costs and specifically train to perform agent tasks.
 
 ## Mundus
 
